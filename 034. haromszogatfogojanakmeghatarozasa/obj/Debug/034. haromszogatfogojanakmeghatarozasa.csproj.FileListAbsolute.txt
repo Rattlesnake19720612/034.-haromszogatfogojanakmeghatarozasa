@@ -1,0 +1,15 @@
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.exe.config
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.exe
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.pdb
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\034. haromszogatfogojanakmeghatarozasa.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\034. haromszogatfogojanakmeghatarozasa.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\_034.haromszogatfogojanakmeghatarozasa.exe
+C:\Users\gratt\source\repos\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\_034.haromszogatfogojanakmeghatarozasa.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\bin\Debug\_034.haromszogatfogojanakmeghatarozasa.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\034. haromszogatfogojanakmeghatarozasa.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\034. haromszogatfogojanakmeghatarozasa.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\034. haromszogatfogojanakmeghatarozasa.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\_034.haromszogatfogojanakmeghatarozasa.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\034. haromszogatfogojanakmeghatarozasa\034. haromszogatfogojanakmeghatarozasa\obj\Debug\_034.haromszogatfogojanakmeghatarozasa.pdb
